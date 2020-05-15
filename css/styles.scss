@@ -33,6 +33,10 @@ $carousel-item-height: 300px;
     color:floralwhite;
 }
 
+.login {
+    cursor: pointer;
+}
+
 address{
     font-size:80%;
     margin:0px;
@@ -68,10 +72,21 @@ body{
         }
     }
 }
-
 .carouselButton {
     right:15px;
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+
+//styling modals
+.modal-header {
+    background: $background-dark;
+    color: floralwhite;
+    .close{
+        color: floralwhite;
+    }
+}
+.modal-body {
+    background: $background-light;
 }
