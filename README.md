@@ -1,8 +1,6 @@
 # Bootstrap-4-confusion
 
-This is the complete project made in the Coursera Specialization : Full-Stack Web Development with React
-
-Course 1 : Front-End Web UI Framework and Tools : Bootstrap 4
+This project was made to understand how to make beautiful websites in less time by using web frameworks such as bootstap.
 
 ## How to run the application 
 
@@ -22,5 +20,5 @@ Course 1 : Front-End Web UI Framework and Tools : Bootstrap 4
 
   `npm run build`
   
-  To build a dist folder that can be used for production. The biild is optimized and minified.  
+  To build a dist folder that can be used for production. The build is optimized and minified.  
   The app is ready to be deployed!
