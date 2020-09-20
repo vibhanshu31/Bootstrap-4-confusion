@@ -1,6 +1,6 @@
 # Bootstrap-4-confusion
 
-This project was made to understand how to make beautiful websites in less time by using web frameworks such as bootstap.
+This project was made to understand how to quickly design and customize responsive mobile-first websites with Bootstrap, the world’s most popular front-end open source toolkit.
 
 ## How to run the application 
 
